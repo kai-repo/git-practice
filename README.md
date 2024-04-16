@@ -3,4 +3,4 @@
 ローカルリポで変更  
 conflictブランチで変更
 GitHub上で更新2
-GitHub上で更新3回目
+conflict-remote2上で更新(コンフリクト発生)
